@@ -594,7 +594,7 @@
                               " ",
                               (0, s.jsx)("img", {
                                 className: "brand-logo__icon",
-                                // src: "svg/a.jpg",
+                                src: "svg/a.jpg",
                                 alt: "adeola logo icon",
                               }),
                               (0, s.jsx)("br", {}),
