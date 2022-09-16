@@ -630,7 +630,7 @@
                             "data-scroll-to": !0,
                             className: "header__hero--cta",
                             href: "#contactMe",
-                            children: "CONTECT ME",
+                            children: "CONTACT ME",
                           }),
                         ],
                       }),
