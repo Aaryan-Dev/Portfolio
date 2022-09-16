@@ -450,8 +450,7 @@
                     }),
                     (0, s.jsx)("meta", {
                       name: "description",
-                      content:
-                        "I'm a self-taught Front End Developer and turning ideas into real life products is my calling.",
+                      content: "Aryan Dev 💫 — Full Stack Devloper",
                     }),
                     (0, s.jsx)("meta", {
                       property: "og:type",
@@ -472,8 +471,7 @@
                     }),
                     (0, s.jsx)("meta", {
                       property: "og:description",
-                      content:
-                        "I'm a self-taught Front End Developer and turning ideas into real life products is my calling.",
+                      content: "Aryan Dev 💫 — Full Stack Devloper",
                     }),
                     // (0, s.jsx)("meta", {
                     //   name: "twitter:title",
