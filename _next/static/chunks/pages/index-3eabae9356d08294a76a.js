@@ -726,33 +726,39 @@
                   ],
                 }),
 
-                (0, s.jsxs)("main", {
-                  className: "container",
+                (0, s.jsxs)("section", {
+                  "data-scroll": !0,
+                  "data-scroll-offset": "35%",
+                  "data-scroll-repeat": !0,
+                  "data-scroll-class": "section-reviews__bg",
+                  className: "section-reviews",
                   children: [
                     (0, s.jsxs)("p", {
                       className: "about-text",
                       children: [
-                        "Hello Visitor! \ud83d\udc4b, my name is 'Aryan Dev' and I am a Full stack Devloper, passionate ",
+                        "Hello Visitor! \ud83d\udc4b, my name is ",
+                        // (0, s.jsx)("br", {}),
+                        (0, s.jsxs)("span", {
+                          className: "header__hero--heading-gradient",
+                          children: ["'Aryan Dev'", " "],
+                        }),
+                        "and I am a Full stack Devloper, passionate about digital products that help people experience everyday life, not endure it.",
+                        " ",
+                        [
+                          "                                       ",
+                          (0, s.jsx)("br", {}),
+                        ],
                         (0, s.jsx)("br", {}),
-                        " about digital products that help people experience everyday life, not endure it.",
-                      ],
-                    }),
-
-                    (0, s.jsxs)("p", {
-                      className: "about-text",
-                      children: [
-                        "                                       ",
-                        (0, s.jsx)("br", {}),
-                      ],
-                    }),
-                    (0, s.jsxs)("p", {
-                      className: "about-text",
-                      children: [
                         "“Design is not just what it looks like and feels like. Design is how it works.” - STEVE JOBS",
                         (0, s.jsx)("br", {}),
                       ],
                     }),
+                  ],
+                }),
 
+                (0, s.jsxs)("main", {
+                  className: "container",
+                  children: [
                     (0, s.jsxs)("section", {
                       id: "sectionProjects",
                       className: "section-projects",
@@ -1108,7 +1114,12 @@
                       ],
                     }),
                     // ********************skills**********************
+
                     (0, s.jsxs)("section", {
+                      "data-scroll": !0,
+                      "data-scroll-offset": "35%",
+                      "data-scroll-repeat": !0,
+                      "data-scroll-class": "section-reviews__bg",
                       className: "section-contact",
                       children: [
                         (0, s.jsxs)("h1", {
@@ -1126,68 +1137,94 @@
                               className: "brand-logo__icon",
                               src: "svg/skills/html-5.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/css3.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/javascript.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/reactjs.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/redux.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/nodejs.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/express-logo.png",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/mongodb.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/chakra-ui.png",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/Bootstrap_logo.png",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/git.svg",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/github.png",
                               alt: "adeola logo icon",
+                              width: "7%",
+                              height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
+                              width: "7%",
+                              height: "150%",
                               src: "svg/skills/ds-logo.png",
                               alt: "adeola logo icon",
                             }),
@@ -1197,6 +1234,7 @@
                         }),
                       ],
                     }),
+
                     (0, s.jsxs)("section", {
                       className: "section-socials",
                       children: [
