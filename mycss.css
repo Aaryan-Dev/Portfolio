@@ -1,5 +1,6 @@
 :root {
-    --color-calendar-graph-day-bg: #000000;
+    /* --color-calendar-graph-day-bg: #000000; */
+    --color-calendar-graph-day-bg: #0000184c;
     --color-calendar-graph-day-L1-bg: #036200;
     --color-calendar-graph-day-L2-bg: #009800;
     --color-calendar-graph-day-L3-bg: #00c437;
