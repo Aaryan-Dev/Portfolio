@@ -607,24 +607,24 @@
                               }),
                             ],
                           }),
-                          (0, s.jsx)("a", {
-                            "data-scroll-to": !0,
-                            className: "header__hero--cta",
-                            href: "#sectionProjects",
-                            children: "VIEW PROJECTS----",
-                          }),
 
                           (0, s.jsx)("a", {
                             "data-scroll-to": !0,
                             className: "header__hero--cta",
+                            href: "#sectionProjects",
+                            children: "VIEW PROJECTS",
+                          }),
+                          (0, s.jsx)("a", {
+                            "data-scroll-to": !0,
+                            className: "header__hero--cta",
                             href: "#getResume",
-                            children: "GET RESUME----",
+                            children: "GET RESUME",
                           }),
                           (0, s.jsx)("a", {
                             "data-scroll-to": !0,
                             className: "header__hero--cta",
                             href: "#seeSkills",
-                            children: "SEE SKILLS----",
+                            children: "SEE SKILLS",
                           }),
                           (0, s.jsx)("a", {
                             "data-scroll-to": !0,
