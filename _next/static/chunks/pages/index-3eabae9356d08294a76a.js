@@ -611,7 +611,26 @@
                             "data-scroll-to": !0,
                             className: "header__hero--cta",
                             href: "#sectionProjects",
-                            children: "VIEW PROJECTS",
+                            children: "VIEW PROJECTS----",
+                          }),
+
+                          (0, s.jsx)("a", {
+                            "data-scroll-to": !0,
+                            className: "header__hero--cta",
+                            href: "#getResume",
+                            children: "GET RESUME----",
+                          }),
+                          (0, s.jsx)("a", {
+                            "data-scroll-to": !0,
+                            className: "header__hero--cta",
+                            href: "#seeSkills",
+                            children: "SEE SKILLS----",
+                          }),
+                          (0, s.jsx)("a", {
+                            "data-scroll-to": !0,
+                            className: "header__hero--cta",
+                            href: "#contactMe",
+                            children: "CONTECT ME",
                           }),
                         ],
                       }),
@@ -732,6 +751,7 @@
                   "data-scroll-repeat": !0,
                   "data-scroll-class": "section-reviews__bg",
                   className: "section-reviews",
+
                   children: [
                     (0, s.jsxs)("p", {
                       className: "about-text",
@@ -1051,6 +1071,7 @@
                       "data-scroll-offset": "35%",
                       "data-scroll-repeat": !0,
                       "data-scroll-class": "section-reviews__bg",
+                      id: "getResume",
                       className: "section-reviews",
                       children: [
                         (0, s.jsxs)("div", {
@@ -1121,6 +1142,7 @@
                       "data-scroll-repeat": !0,
                       "data-scroll-class": "section-reviews__bg",
                       className: "section-contact",
+                      id: "seeSkills",
                       children: [
                         (0, s.jsxs)("h1", {
                           className: "heading-1",
@@ -1237,6 +1259,8 @@
 
                     (0, s.jsxs)("section", {
                       className: "section-socials",
+                      id: "contactMe",
+
                       children: [
                         (0, s.jsxs)("h1", {
                           className: "heading-1",
