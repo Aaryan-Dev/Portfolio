@@ -1137,12 +1137,12 @@
                     // ********************skills**********************
 
                     (0, s.jsxs)("section", {
+                      id: "seeSkills",
                       "data-scroll": !0,
                       "data-scroll-offset": "35%",
                       "data-scroll-repeat": !0,
                       "data-scroll-class": "section-reviews__bg",
                       className: "section-contact",
-                      id: "seeSkills",
                       children: [
                         (0, s.jsxs)("h1", {
                           className: "heading-1",
