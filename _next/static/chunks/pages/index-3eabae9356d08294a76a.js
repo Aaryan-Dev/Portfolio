@@ -171,7 +171,7 @@
                           children: "HAVE AN IDEA?",
                         }),
                         (0, s.jsx)("a", {
-                          href: "mailto:adeolaonigegeara@gmail.com",
+                          href: "mailto:aryandev1305@gmail.com",
                           target: "_blank",
                           rel: "nofollow noopener noreferrer",
                           children: "Tell me about it",
@@ -233,7 +233,7 @@
                           children: [
                             (0, s.jsx)("img", {
                               // src: "webp/adeola-1.webp",
-                              alt: "adeola",
+                              alt: "aryan",
                             }),
                             (0, s.jsxs)("h2", {
                               children: [
@@ -434,7 +434,7 @@
                     //   href: "svg/favicon.svg",
                     // }),
                     (0, s.jsx)("link", {
-                      href: "https://adeolaadeoti.xyz/",
+                      href: "https://aryandev.xyz/",
                       rel: "canonical",
                     }),
                     (0, s.jsx)("meta", {
@@ -524,8 +524,8 @@
                         animate: { x: 0, opacity: 1, transition: N({}, O) },
                         className: "preloader__left",
                         children: (0, s.jsx)("img", {
-                          src: "svg/adeola-logo-left.svg",
-                          alt: "adeola logo",
+                          // src: "svg/adeola-logo-left.svg",
+                          // alt: "adeola logo",
                         }),
                       }),
                       (0, s.jsxs)(o.E.div, {
