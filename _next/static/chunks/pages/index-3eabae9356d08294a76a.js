@@ -148,7 +148,7 @@
                             //   children: "\ud83d\udc26 TW",
                             // }),
                             (0, s.jsx)("a", {
-                              href: "https://www.linkedin.com/in/adeoladev",
+                              href: "",
                               rel: "noopener",
                               target: "_blank",
                               children: "\ud83d\udcbc LD",
@@ -1247,7 +1247,7 @@
                             //   children: "\ud83d\udc26 Twitter",
                             // }),
                             (0, s.jsx)("a", {
-                              href: "https://www.linkedin.com/in/adeoladev",
+                              href: "https://www.linkedin.com/in/aryan-dev/",
                               rel: "noopener",
                               target: "_blank",
                               children: "\ud83d\udcbc LinkedIn",
