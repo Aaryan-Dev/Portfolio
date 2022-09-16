@@ -773,7 +773,7 @@
                         (0, s.jsx)("p", {
                           className: "paragraph",
                           children:
-                            "Each project is unique. Here are some of my works.",
+                            "Each project is a Clone. Here are some of my works.",
                         }),
                         // *******************    PROJECT 1    ***************************
                         (0, s.jsxs)("div", {
