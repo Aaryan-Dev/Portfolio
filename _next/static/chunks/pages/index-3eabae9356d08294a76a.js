@@ -1217,6 +1217,22 @@
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
+                              src: "svg/skills/Cypress.png",
+                              alt: "adeola logo icon",
+                              // width: "7%",
+                              // height: "150%",
+                            }),
+
+                            (0, s.jsx)("img", {
+                              className: "brand-logo__icon",
+                              src: "svg/skills/typeScript.png",
+                              alt: "adeola logo icon",
+                              // width: "7%",
+                              // height: "150%",
+                            }),
+
+                            (0, s.jsx)("img", {
+                              className: "brand-logo__icon",
                               src: "svg/skills/chakra-ui.png",
                               alt: "adeola logo icon",
                               // width: "7%",
