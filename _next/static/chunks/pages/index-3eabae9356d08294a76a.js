@@ -809,8 +809,7 @@
                               className: "project-card__left",
                               children: (0, s.jsx)("h4", {
                                 className: "heading-4",
-                                children:
-                                  "NEXT JS, LOCOMOTIVE SCROLL, FRAMER MOTION",
+                                children: "REACT, REDUX, JAVASCRIPT, CHAKRA UI",
                               }),
                             }),
                             (0, s.jsxs)("div", {
@@ -876,7 +875,8 @@
                               className: "project-card__left",
                               children: (0, s.jsx)("h4", {
                                 className: "heading-4",
-                                children: "REACT JS, FRAMER MOTION",
+                                children:
+                                  "HTML, CSS, BOOTSTRAP, JAVASCRIPT, NPM",
                               }),
                             }),
                             (0, s.jsxs)("div", {
@@ -939,7 +939,7 @@
                               children: (0, s.jsx)("h4", {
                                 className: "heading-4",
                                 children:
-                                  "NEXT JS, LOCOMOTIVE SCROLL, FRAMER MOTION",
+                                  "HTML, CSS, BOOTSTRAP, JAVASCRIPT, NPM",
                               }),
                             }),
 
@@ -1006,7 +1006,7 @@
                               className: "project-card__left",
                               children: (0, s.jsx)("h4", {
                                 className: "heading-4",
-                                children: "HTML, SCSS, JAVASCRIPT, GSAP",
+                                children: "HTML, CSS, JAVASCRIPT",
                               }),
                             }),
                             (0, s.jsxs)("div", {
