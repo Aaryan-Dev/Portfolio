@@ -717,7 +717,7 @@
                               href: "mailto:aryandev1305@gmail.com",
                               rel: "noopener",
                               target: "_blank",
-                              children: "\xa0 email \ud83d\udce7",
+                              children: ["\xa0 \ud83d\udce7", "Email"],
                             }),
                             // (0, s.jsx)("a", {
                             //   href: "https://twitter.com/adeolajs",
@@ -1314,7 +1314,10 @@
                               href: "mailto:aryandev1305@gmail.com",
                               rel: "noopener",
                               target: "_blank",
-                              children: "\xa0 email \ud83d\udce7",
+                              children: [
+                                "aryandev1305@gmail.com",
+                                "\xa0 \ud83d\udce7",
+                              ],
                             }),
                             ".",
                             // (0, s.jsx)("a", {
@@ -1327,7 +1330,7 @@
                               href: "https://www.linkedin.com/in/aryan-dev/",
                               rel: "noopener",
                               target: "_blank",
-                              children: "\ud83d\udcbc LinkedIn",
+                              children: ["\ud83d\udcbc LinkedIn"],
                             }),
                             // (0, s.jsx)("a", {
                             //   href: "https://www.instagram.com/adeolaadeoti_",
@@ -1335,11 +1338,11 @@
                             //   target: "_blank",
                             //   children: "\ud83d\udcf8 Instagram",
                             // }),
-                            (0, s.jsx)("p", {
-                              className: "paragraph",
-                              children: "Currently I am in, Bangalore",
-                            }),
                           ],
+                        }),
+                        (0, s.jsx)("p", {
+                          className: "paragraph",
+                          children: "Currently I am in, Bangalore",
                         }),
                       ],
                     }),
