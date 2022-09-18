@@ -819,11 +819,11 @@
                                 "webp/myDistorsionImage.webp",
                               children: [
                                 (0, s.jsx)("img", {
-                                  // src: "webp/alexxandria-1.webp",
+                                  src: "svg/project_cover/gearbest.png",
                                   alt: "alexxandria model",
                                 }),
                                 (0, s.jsx)("img", {
-                                  // src: "webp/alexxandria-2.webp",
+                                  src: "webp/alexxandria-2.png",
                                   alt: "alexxandria logo",
                                 }),
                               ],
@@ -846,7 +846,7 @@
                                 (0, s.jsx)("a", {
                                   rel: "noopener",
                                   target: "_blank",
-                                  href: "https://meek-trifle-a6cc12.netlify.app/",
+                                  href: "https://rococo-torte-a2eb88.netlify.app/",
                                   className: "project-card__link",
                                   children: "VISIT THE WEBSITE",
                                 }),
@@ -885,11 +885,11 @@
                                 "webp/myDistorsionImage.webp",
                               children: [
                                 (0, s.jsx)("img", {
-                                  // src: "webp/safarika-1.webp",
+                                  src: "svg/project_cover/asos.png",
                                   alt: "safarika",
                                 }),
                                 (0, s.jsx)("img", {
-                                  // src: "webp/safarika-2.webp",
+                                  src: "webp/safarika-2.png",
                                   alt: "safarika logo",
                                 }),
                               ],
@@ -949,11 +949,11 @@
                                 "webp/myDistorsionImage.webp",
                               children: [
                                 (0, s.jsx)("img", {
-                                  // src: "webp/heatrow-1.webp",
+                                  src: "svg/project_cover/kickstarter.png",
                                   alt: "heatrow",
                                 }),
                                 (0, s.jsx)("img", {
-                                  // src: "webp/heatrow-2.webp",
+                                  src: "webp/heatrow-2.png",
                                   alt: "heatrow logo",
                                 }),
                               ],
@@ -974,7 +974,7 @@
                                   ],
                                 }),
                                 (0, s.jsx)("a", {
-                                  href: "https://meek-trifle-a6cc12.netlify.app/",
+                                  href: "https://chimerical-selkie-a535a6.netlify.app/",
                                   rel: "noopener",
                                   target: "_blank",
                                   className: "project-card__link",
@@ -1015,11 +1015,12 @@
                                 "webp/myDistorsionImage.webp",
                               children: [
                                 (0, s.jsx)("img", {
-                                  // src: "webp/adeola-1.webp",
+                                  src: "webp/adeola-1.webp",
+                                  src: "svg/project_cover/eggy.png",
                                   alt: "adeola model",
                                 }),
                                 (0, s.jsx)("img", {
-                                  // src: "webp/adeola-2.webp",
+                                  src: "webp/adeola-2.png",
                                   alt: "adeola logo",
                                 }),
                               ],
@@ -1042,7 +1043,7 @@
                                 (0, s.jsx)("a", {
                                   rel: "noopener",
                                   target: "_blank",
-                                  href: "https://meek-trifle-a6cc12.netlify.app/",
+                                  href: "https://peppy-meringue-92c768.netlify.app/",
                                   className: "project-card__link",
                                   children: "VIST THE WEBSITE",
                                 }),
@@ -1052,7 +1053,7 @@
                                     (0, s.jsx)("a", {
                                       rel: "noopener",
                                       target: "_blank",
-                                      href: "https://github.com/Aaryan-Dev/mundane-wren-9309",
+                                      href: "https://github.com/Aaryan-Dev/Masai-Work-Repository/tree/main/unit-4/sprint-4/Clone/Clone",
                                       children: (0, s.jsx)("img", {
                                         src: "svg/github.svg",
                                         alt: "github icon",
