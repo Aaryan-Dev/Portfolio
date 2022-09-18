@@ -1,10 +1,10 @@
 :root {
     /* --color-calendar-graph-day-bg: #000000; */
     --color-calendar-graph-day-bg: #0000184c;
-    --color-calendar-graph-day-L1-bg: #036200;
-    --color-calendar-graph-day-L2-bg: #009800;
-    --color-calendar-graph-day-L3-bg: #00c437;
-    --color-calendar-graph-day-L4-bg: #0dff00;
+    --color-calendar-graph-day-L1-bg: hsl(277, 100%, 15%);
+    --color-calendar-graph-day-L2-bg: hsl(277, 100%, 20%);
+    --color-calendar-graph-day-L3-bg: hsl(277, 100%, 29%);
+    --color-calendar-graph-day-L4-bg: hsl(276, 100%, 50%);
 }
 
 
