@@ -141,24 +141,12 @@
                               target: "_blank",
                               children: "\ud83d\udc7e GH",
                             }),
-                            // (0, s.jsx)("a", {
-                            //   href: "https://twitter.com/adeolajs",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: "\ud83d\udc26 TW",
-                            // }),
                             (0, s.jsx)("a", {
                               href: "",
                               rel: "noopener",
                               target: "_blank",
                               children: "\ud83d\udcbc LD",
                             }),
-                            // (0, s.jsx)("a", {
-                            //   href: "https://www.instagram.com/adeolaadeoti_",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: "\ud83d\udcf8 IN",
-                            // }),
                           ],
                         }),
                       ],
@@ -200,7 +188,6 @@
                           className: "navigation-bottom__projects-card",
                           children: [
                             (0, s.jsx)("img", {
-                              // src: "webp/alexxandria-nav.webp",
                               alt: "alexxandria",
                             }),
                             (0, s.jsxs)("h2", {
@@ -219,7 +206,6 @@
                           className: "navigation-bottom__projects-card",
                           children: [
                             (0, s.jsx)("img", {
-                              // src: "webp/safarika-nav.webp",
                               alt: "safarika",
                             }),
                             (0, s.jsx)("h2", { children: "ASOS-Clone" }),
@@ -232,7 +218,6 @@
                           className: "navigation-bottom__projects-card",
                           children: [
                             (0, s.jsx)("img", {
-                              // src: "webp/adeola-1.webp",
                               alt: "aryan",
                             }),
                             (0, s.jsxs)("h2", {
@@ -276,39 +261,6 @@
             initial: !1,
             animate: a ? "open" : "closed",
             className: "navigation-wrapper",
-            // children: [
-            //   (0, s.jsx)(j, { variants: _, isOpen: a }),
-            //   (0, s.jsxs)("div", {
-            //     "data-scroll": !0,
-            //     "data-scroll-sticky": !0,
-            //     "data-scroll-target": "#menu-target",
-            //     className: "menu-top",
-            //     children: [
-            //       (0, s.jsx)(v.default, {
-            //         href: "/",
-            //         children: (0, s.jsxs)("a", {
-            //           className: "brand-logo",
-            //           children: [
-            //             (0, s.jsx)("img", {
-            //               className: "brand-logo__icon",
-            //               src: "svg/adeola-logo-left.svg",
-            //               alt: "adeola logo icon",
-            //             }),
-            //             (0, s.jsx)("span", {
-            //               className: "brand-logo__text-wrapper",
-            //               children: (0, s.jsx)("img", {
-            //                 className: "brand-logo__text",
-            //                 src: "svg/adeola-logo-right.svg",
-            //                 alt: "adeola logo text",
-            //               }),
-            //             }),
-            //           ],
-            //         }),
-            //       }),
-            //       (0, s.jsx)(h, { toggle: r, toggleState: a }),
-            //     ],
-            //   }),
-            // ],
           });
         },
         u = r(6482),
@@ -400,25 +352,6 @@
                     displacementImage: e.dataset.displacement,
                   });
                 });
-              // var e = document.querySelector(".cursor");
-              // (window.onmousemove = function (a) {
-              //   e.setAttribute(
-              //     "style",
-              //     "top: ".concat(a.pageY, "px; left: ").concat(a.pageX, "px;")
-              //   );
-              // }),
-              // console.clear(),
-              // console.log.apply(console, [
-              //   "%c Designed and Developed by Aryan Dev %c %c\ud83d\ude80 %c\n",
-              //   "color: #fff; background: #8000ff; padding:5px 0;",
-              //   "color: #fff; background: #242424; padding:5px 0 5px 5px;",
-              //   "background: #242424; padding:5px 0",
-              //   "background: #242424; padding:5px 5px 5px 0",
-              // ]),
-              //   console.log.apply(console, [
-              //     "%c Thanks for stopping by, I\u2019m currently looking to a new team of creative designers and developers.\n",
-              //     "color: #fff; background: #8000ff; padding:5px 0;",
-              //   ]);
             }
           }, []);
           return (0, s.jsx)(s.Fragment, {
@@ -429,10 +362,6 @@
               children: [
                 (0, s.jsxs)(l.default, {
                   children: [
-                    // (0, s.jsx)("link", {
-                    //   rel: "icon",
-                    //   href: "svg/favicon.svg",
-                    // }),
                     (0, s.jsx)("link", {
                       href: "https://aryandev.xyz/",
                       rel: "canonical",
@@ -473,28 +402,6 @@
                       property: "og:description",
                       content: "Aryan Dev 💫 — Full Stack Devloper",
                     }),
-                    // (0, s.jsx)("meta", {
-                    //   name: "twitter:title",
-                    //   content:
-                    //     "Aryan Dev \ud83d\ude80 \u2014 Full Stack Devloper",
-                    // }),
-                    // (0, s.jsx)("meta", {
-                    //   name: "twitter:description",
-                    //   content:
-                    //     "Aryan Dev 💫 — Full Stack Devloper",
-                    // }),
-                    // (0, s.jsx)("meta", {
-                    //   name: "twitter:image",
-                    //   content: "webp/preview-image.png",
-                    // }),
-                    // (0, s.jsx)("meta", {
-                    //   name: "twitter:card",
-                    //   content: "summary_large_image",
-                    // }),
-                    // (0, s.jsx)("meta", {
-                    //   name: "twitter:url",
-                    //   content: "https://adeolaadeoti.xyz/",
-                    // }),
                   ],
                 }),
                 (0, s.jsx)("audio", {
@@ -523,10 +430,7 @@
                         initial: { x: -10, opacity: 0 },
                         animate: { x: 0, opacity: 1, transition: N({}, O) },
                         className: "preloader__left",
-                        children: (0, s.jsx)("img", {
-                          // src: "svg/adeola-logo-left.svg",
-                          // alt: "adeola logo",
-                        }),
+                        children: (0, s.jsx)("img", {}),
                       }),
                       (0, s.jsxs)(o.E.div, {
                         initial: { x: 10, opacity: 0 },
@@ -537,30 +441,6 @@
                             className: "preloader__text",
                             children: "Aryan Dev",
                           }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "CSS/SCSS",
-                          //   }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "JAVASCRIPT",
-                          //   }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "TYPESCRIPT",
-                          //   }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "REACT JS",
-                          //   }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "NEXT JS",
-                          //   }),
-                          //   (0, s.jsx)("p", {
-                          //     className: "preloader__text",
-                          //     children: "FRAMER MOTION",
-                          //   }),
                         ],
                       }),
                     ],
@@ -719,12 +599,6 @@
                               target: "_blank",
                               children: ["\xa0 \ud83d\udce7", "Email"],
                             }),
-                            // (0, s.jsx)("a", {
-                            //   href: "https://twitter.com/adeolajs",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: "\ud83d\udc26 TW",
-                            // }),
 
                             (0, s.jsx)("a", {
                               href: "https://www.linkedin.com/in/aryan-dev/",
@@ -732,12 +606,6 @@
                               target: "_blank",
                               children: "\ud83d\udcbc LD",
                             }),
-                            // (0, s.jsxs)("a", {
-                            //   href: "https://www.instagram.com/adeolaadeoti_",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: [" ", "\ud83d\udcf8 IN"],
-                            // }),
                           ],
                         }),
                       ],
@@ -757,7 +625,7 @@
                       className: "about-text",
                       children: [
                         "Hello Visitor! \ud83d\udc4b, my name is ",
-                        // (0, s.jsx)("br", {}),
+
                         (0, s.jsxs)("span", {
                           className: "header__hero--heading-gradient",
                           children: ["'Aryan Dev'", " "],
@@ -1096,12 +964,6 @@
                             (0, s.jsx)("p", {
                               className: "paragraph paragraph__sub",
                               children:
-                                //                                 Collaborative,
-                                // trained in working with interdisciplinary teams.
-                                // Intensely interested in obtaining a Software
-                                // Developer position to work on enhancing the
-                                // product experience.
-
                                 "Collaborative, trained in working with interdisciplinary teams. Intensely interested in obtaining a Software Developer position to work on enhancing the product experience",
                             }),
                           ],
@@ -1160,110 +1022,81 @@
                               className: "brand-logo__icon",
                               src: "svg/skills/html-5.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/css3.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/javascript.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/reactjs.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/redux.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/nodejs.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/express-logo.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/mongodb.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/Cypress.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/typeScript.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
 
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/chakra-ui.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/Bootstrap_logo.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/git.svg",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
                               src: "svg/skills/github.png",
                               alt: "adeola logo icon",
-                              // width: "7%",
-                              // height: "150%",
                             }),
                             (0, s.jsx)("img", {
                               className: "brand-logo__icon",
-                              // width: "7%",
-                              // height: "150%",
+
                               src: "svg/skills/ds-logo.png",
                               alt: "adeola logo icon",
                             }),
@@ -1320,11 +1153,6 @@
                               ],
                             }),
                             ".",
-                            // (0, s.jsx)("a", {
-                            //   href: "https://twitter.com/adeolajs",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: "\ud83d\udc26 Twitter",
                             // }),
                             (0, s.jsx)("a", {
                               href: "https://www.linkedin.com/in/aryan-dev/",
@@ -1332,12 +1160,6 @@
                               target: "_blank",
                               children: ["\ud83d\udcbc LinkedIn"],
                             }),
-                            // (0, s.jsx)("a", {
-                            //   href: "https://www.instagram.com/adeolaadeoti_",
-                            //   rel: "noopener",
-                            //   target: "_blank",
-                            //   children: "\ud83d\udcf8 Instagram",
-                            // }),
                           ],
                         }),
                         (0, s.jsx)("p", {
@@ -1351,32 +1173,9 @@
                 (0, s.jsxs)("footer", {
                   className: "footer",
                   children: [
-                    // (0, s.jsx)("img", {
-                    //   src: "svg/adeola-logo-footer.svg",
-                    //   alt: "design and devloped by Aryan",
-                    // }),
                     (0, s.jsxs)("div", {
                       className: "footer__socials",
-                      children: [
-                        // (0, s.jsx)("a", {
-                        //   href: "https://dribbble.com/shots/16100745-Adeola-Adeoti-Personal-Website",
-                        //   target: "_blank",
-                        //   rel: "noopener",
-                        //   children: (0, s.jsx)("img", {
-                        //     src: "svg/dribble.svg",
-                        //     alt: "dribble logo",
-                        //   }),
-                        // }),
-                        // (0, s.jsx)("a", {
-                        //   href: "https://github.com/Aaryan-Dev",
-                        //   target: "_blank",
-                        //   rel: "noopener",
-                        //   children: (0, s.jsx)("img", {
-                        //     src: "svg/github.svg",
-                        //     alt: "github logo",
-                        //   }),
-                        // }),
-                      ],
+                      children: [],
                     }),
                   ],
                 }),
