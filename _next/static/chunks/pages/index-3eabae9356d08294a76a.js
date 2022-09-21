@@ -950,6 +950,8 @@
                               className: "heading-1",
                               children: [
                                 (0, s.jsx)("a", {
+                                  // <a href="/images/myw3schoolsimage.jpg" download>
+                                  download: true,
                                   href: "svg/resume.pdf",
                                   rel: "noopener",
                                   target: "_blank",
