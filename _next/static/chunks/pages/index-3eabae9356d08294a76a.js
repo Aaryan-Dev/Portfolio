@@ -952,7 +952,7 @@
                                 (0, s.jsx)("a", {
                                   // <a href="/images/myw3schoolsimage.jpg" download>
                                   download: true,
-                                  href: "svg/resume.pdf",
+                                  href: "svg/AryanDev_resume.pdf",
                                   rel: "noopener",
                                   target: "_blank",
                                   children: "Resume",
